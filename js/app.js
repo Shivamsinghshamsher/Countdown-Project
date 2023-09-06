@@ -1,5 +1,5 @@
 
-const enddate = "10 September 2023 03:58:20 PM";
+const enddate = "31 December 2023 11:59:59 PM";
 document.getElementById('end-date').innerHTML = enddate;
 const remainning_time = document.querySelectorAll('input');
 function clock() {
